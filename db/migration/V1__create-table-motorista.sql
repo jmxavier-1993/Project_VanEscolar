@@ -1,0 +1,18 @@
+-- create table motorista(
+-- id int IDENTITY (1,1)primary key,
+-- nome varchar(255) ,
+-- cpf varchar(255) ,
+-- cnh varchar(255) ,
+-- telefone varchar(255) ,
+-- dataDeNascimento date ,
+-- data_de_nascimento datetime(6) ,
+-- bairro varchar(255) ,
+-- cep varchar(255) ,
+-- cidade varchar(255) ,
+-- complemento varchar(255) ,
+-- localidade varchar(255) ,
+-- logradouro varchar(255) ,
+-- numero varchar(255),
+-- status_pedido_corrida VARCHAR(20) CHECK (status_pedido_corrida IN ('Feito_Pedido', 'Pedido_Aceito', 'Pedido_Negado')),
+-- automovel_id int
+-- );

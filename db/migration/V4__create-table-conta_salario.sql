@@ -1,0 +1,5 @@
+-- create table conta_salario(
+-- id INT IDENTITY (1,1) primary key,
+-- datatransacao datetime(6) ,
+-- saldo int
+-- );

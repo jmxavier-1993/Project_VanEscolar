@@ -1,0 +1,6 @@
+-- create table automovel (
+--     id int IDENTITY (1,1)primary key, 
+-- modelo varchar(255),
+-- nome_carro varchar(255),
+-- placa varchar(255)
+-- );
